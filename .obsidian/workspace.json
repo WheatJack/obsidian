@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "5eb1a45812c6f2da",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7cf9edbeaab75d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a1cff9ed59ff07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/surge-server/问卷调查模块.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "问卷调查模块"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2556f0a742ce497",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fecfcb0f5b44ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d214f7b6c3e5590",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6f0d4bcb0e50d59e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "18f1bbfc3f2c71ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4d815b31f341549",
+    "type": "split",
+    "children": [
+      {
+        "id": "b19adbd4e17ec589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdd992829dce01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/surge-server/问卷调查模块.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "问卷调查模块 的反向链接列表"
+            }
+          },
+          {
+            "id": "d1f9e5e57540c19e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/surge-server/问卷调查模块.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "问卷调查模块 的出链列表"
+            }
+          },
+          {
+            "id": "4770100d994d1fd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "977ee8b027e8017a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ed584604f896df35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/surge-server/问卷调查模块.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "问卷调查模块 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e9a1cff9ed59ff07",
+  "lastOpenFiles": [
+    "Projects/surge-server/surge-server.md",
+    "Projects/surge-server/问卷调查模块.md",
+    "未命名.base",
+    "Projects/surge-server",
+    "Projects",
+    "skills/obsidian/scripts/obsidian_helper.py",
+    "skills/obsidian/references/vault_structure.md",
+    "skills/obsidian/scripts",
+    "skills/obsidian/references",
+    "skills/obsidian/SKILL.md",
+    "skills/obsidian",
+    "skills",
+    "plugi",
+    "未命名文件夹"
+  ]
+}
