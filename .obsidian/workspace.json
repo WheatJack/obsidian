@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7cf9edbeaab75d6",
+        "id": "1e28db801a9b88b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e9a1cff9ed59ff07",
+            "id": "8a765c1d88337db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
+                "file": "Projects/保险产品采集系统/部署文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "活动传播链与互动记录流程"
+              "title": "部署文档"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
+                "file": "Projects/保险产品采集系统/部署文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "活动传播链与互动记录流程 的反向链接列表"
+              "title": "部署文档 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
+                "file": "Projects/保险产品采集系统/部署文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "活动传播链与互动记录流程 的出链列表"
+              "title": "部署文档 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
+                "file": "Projects/保险产品采集系统/部署文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "活动传播链与互动记录流程 的大纲"
+              "title": "部署文档 的大纲"
             }
           }
         ]
@@ -184,8 +184,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d214f7b6c3e5590",
+  "active": "8a765c1d88337db4",
   "lastOpenFiles": [
+    "Projects/保险产品采集系统/技术方案.md",
+    "Projects/保险产品采集系统/部署文档.md",
+    "Projects/保险产品采集系统/需求文档.md",
+    "Projects/保险产品采集系统",
+    "Projects/surge-server/活动/活动模块需求文档.md",
+    "Projects/surge-server/活动/活动模块文档索引.md",
+    "Projects/surge-server/surge-server.md",
+    "Projects/surge-server/活动/活动传播链与互动记录流程.md",
     "Projects/surge-server/问卷/问卷调查模块.md",
     "Projects/surge-server/问卷/问卷-Scope活动范围.md",
     "Projects/surge-server/问卷/问卷-传播链流程.md",
@@ -198,10 +206,6 @@
     "Projects/surge-server/问卷/问卷-数据库设计.md",
     "Projects/surge-server/活动/活动模块接口测试脚本.md",
     "Projects/surge-server/活动/活动模块测试用例.md",
-    "Projects/surge-server/活动/活动传播链与互动记录流程.md",
-    "Projects/surge-server/活动/活动模块文档索引.md",
-    "Projects/surge-server/活动/活动模块需求文档.md",
-    "Projects/surge-server/surge-server.md",
     "skills/obsidian/SKILL.md",
     "未命名.base",
     "Projects/surge-server",
@@ -210,7 +214,6 @@
     "skills/obsidian/references/vault_structure.md",
     "skills/obsidian/scripts",
     "skills/obsidian/references",
-    "skills/obsidian",
-    "skills"
+    "skills/obsidian"
   ]
 }
