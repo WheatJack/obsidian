@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/surge-server/问卷调查模块.md",
+                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "问卷调查模块"
+              "title": "活动传播链与互动记录流程"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "right": {
     "id": "c4d815b31f341549",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/surge-server/问卷调查模块.md",
+                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "问卷调查模块 的反向链接列表"
+              "title": "活动传播链与互动记录流程 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/surge-server/问卷调查模块.md",
+                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "问卷调查模块 的出链列表"
+              "title": "活动传播链与互动记录流程 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/surge-server/问卷调查模块.md",
+                "file": "Projects/surge-server/活动/活动传播链与互动记录流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "问卷调查模块 的大纲"
+              "title": "活动传播链与互动记录流程 的大纲"
             }
           }
         ]
@@ -184,14 +184,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9a1cff9ed59ff07",
+  "active": "8d214f7b6c3e5590",
   "lastOpenFiles": [
-    "Projects/surge-server/活动模块接口测试脚本.md",
-    "Projects/surge-server/活动模块测试用例.md",
-    "Projects/surge-server/活动传播链与互动记录流程.md",
-    "Projects/surge-server/问卷调查模块.md",
-    "Projects/surge-server/活动模块文档索引.md",
-    "Projects/surge-server/活动模块需求文档.md",
+    "Projects/surge-server/问卷/问卷调查模块.md",
+    "Projects/surge-server/问卷/问卷-Scope活动范围.md",
+    "Projects/surge-server/问卷/问卷-传播链流程.md",
+    "Projects/surge-server/活动",
+    "Projects/surge-server/问卷",
+    "Projects/surge-server/问卷/问卷-新模块对接Checklist.md",
+    "Projects/surge-server/问卷/问卷-消息通知.md",
+    "Projects/surge-server/问卷/问卷-提交与防重复.md",
+    "Projects/surge-server/问卷/问卷-接口清单.md",
+    "Projects/surge-server/问卷/问卷-数据库设计.md",
+    "Projects/surge-server/活动/活动模块接口测试脚本.md",
+    "Projects/surge-server/活动/活动模块测试用例.md",
+    "Projects/surge-server/活动/活动传播链与互动记录流程.md",
+    "Projects/surge-server/活动/活动模块文档索引.md",
+    "Projects/surge-server/活动/活动模块需求文档.md",
     "Projects/surge-server/surge-server.md",
     "skills/obsidian/SKILL.md",
     "未命名.base",
@@ -202,8 +211,6 @@
     "skills/obsidian/scripts",
     "skills/obsidian/references",
     "skills/obsidian",
-    "skills",
-    "plugi",
-    "未命名文件夹"
+    "skills"
   ]
 }
